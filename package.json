@@ -1,0 +1,10 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Axel",
+  "license": "MIT",
+  "dependencies": {
+    "pubsub-js": "^1.5.7"
+  }
+}

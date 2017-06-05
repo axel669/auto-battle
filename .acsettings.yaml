@@ -1,0 +1,3 @@
+main: source/main.js
+output: app.js
+debug: true
